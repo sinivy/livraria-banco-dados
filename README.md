@@ -25,14 +25,6 @@ O banco de dados é composto por uma tabela principal contendo:
 - UF da editora
 - Valor do livro
 
-
-## Modelo da Tabela
-
-<img width="628" height="464" alt="Imagem colada" src="https://github.com/user-attachments/assets/32b2dc83-3865-4eaa-b323-333171545531" />
-<img width="628" height="465" alt="Imagem colada (2)" src="https://github.com/user-attachments/assets/14025b75-a5c5-4fae-8778-70cd250d5f27" />
-<img width="328" height="152" alt="Imagem colada (3)" src="https://github.com/user-attachments/assets/21e53277-b672-4cc3-baab-ec0ddae8192b" />
-
-
 ## Queries Desenvolvidas
 
 1. Todos os dados
